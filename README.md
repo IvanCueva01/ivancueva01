@@ -1,77 +1,130 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ivan Cueva</h1>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-🎓 &nbsp;I am currently studying Systems Engineering and Informatics at University Technological of Perú.\
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🌱 &nbsp;I'm on track for learning more about web development, Machine Learning and Data Analytics.\
-✍️ &nbsp;In my free time, I play guitar and watch videos of new technologies as hobbies.\
-✉️ &nbsp;You can shoot me an email at pedrocuevaof@gmail.com! I'll try to respond as soon as I can.\
-🎯 &nbsp;Continuously enhance technical skills, contribute to impactful projects, and bring innovative ideas to development teams.\
-🌟 &nbsp;Adaptable, proactive, and a fast learner with a commitment to teamwork and problem-solving.
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗃 &nbsp;Databases
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-
-### 🧰 &nbsp;Version Controll & Tools 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-### 🎨 &nbsp;Design
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### ⚙️ &nbsp;GitHub Analytics
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Pedro Cueva</h1>
 
 <p align="center">
+  <em>Desarrollador Full Stack Apasionado | Analista de Datos | Estudiante de Ingeniería de Sistemas e Informática</em>
+</p>
+
+---
+
+### 👨🏻‍💻 Sobre Mí
+🎓 &nbsp;Estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú[cite: 1, 4], con un fuerte enfoque en el desarrollo de software y el análisis de datos.
+💡 &nbsp;Me entusiasma explorar nuevas tecnologías y transformarlas en soluciones de software innovadoras y eficientes.
+🌱 &nbsp;Actualmente profundizando en arquitecturas de microservicios, patrones avanzados de desarrollo en la nube y nuevas técnicas de Machine Learning.
+🎯 &nbsp;Mi objetivo es potenciar mis habilidades técnicas continuamente, contribuir a proyectos de alto impacto y aportar ideas frescas a equipos de desarrollo dinámicos.
+🌟 &nbsp;Soy adaptable, proactivo, con una gran capacidad de aprendizaje rápido, comprometido con el trabajo en equipo y la resolución efectiva de problemas.
+✉️ &nbsp;Contáctame: <a href="mailto:pedrocuevaof@gmail.com">pedrocuevaof@gmail.com</a> [cite: 1]
+
+<img alt="Developer GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" align="right"/>
+
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+**Lenguajes de Programación:**
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </p>
+
+**Frontend Development:**
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+</p>
+
+**Backend Development:**
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+</p>
+
+**Bases de Datos:**
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="BigQuery" src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+
+**Análisis de Datos y Visualización:**
+<p>
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img alt="Google Data Analytics" src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white">
+  </p>
+
+**Herramientas, DevOps y Otros:**
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+### 🔭 Actualmente Estoy Trabajando En:
+* Perfeccionando un [Proyecto de Blog con React y Node.js].
+* Desarrollando una [API REST con Spring Boot para practicar microservicios].
+* Aplicando mis conocimientos de ciberseguridad en proyectos personales.
+
+### 🌱 Actualmente Estoy Aprendiendo:
+* Despliegue en plataformas Cloud (AWS/Azure/GCP).
+* Pruebas automatizadas y TDD.
+* Principios avanzados de Ciberseguridad y DevSecOps.
+
+---
+
+### ✨ Proyectos Destacados
+1.  🌐 **Mi Portafolio Personal V2**
+    * Descripción: Versión mejorada de mi sitio personal mostrando mis proyectos y habilidades.
+    * Tecnologías: React, TypeScript, TailwindCSS, Vercel.
+    * 🔗 [Link al Repositorio GitHub] | 🚀 [Link al Deploy (si lo tienes)]
+2.  ✍️ **Blog Web App Full Stack**
+    * Descripción: Aplicación de blogs dinámica que permite crear, editar y leer artículos.
+    * Tecnologías: React, TypeScript, Node.js, Express, PostgreSQL. [cite: 11]
+    * 🔗 [Link al Repositorio GitHub]
+3.  📊 **Dashboard de Análisis (Ejemplo)**
+    * Descripción: Un dashboard interactivo para visualizar [tipo de datos, ej: datos de ventas] utilizando...
+    * Tecnologías: R, Shiny (o Tableau/Python con Dash).
+    * 🔗 [Link al Repositorio GitHub]
+
+---
+### ⚙️ Mis Estadísticas de GitHub:
+<p align="center">
   <a href="https://github.com/IvanCueva01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IvanCueva01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/IvanCueva01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IvanCueva01&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IvanCueva01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IvanCueva01&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
 
+### 🤝🏻 Conecta Conmigo:
 <p align="center">
-<a href="https://www.linkedin.com/in/ivan-cueva/"><img src="https://img.shields.io/badge/-in%20Ivan%20Cueva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pedrocuevaof@gmail.com"><img src="https://img.shields.io/badge/-Ivan Cueva-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://agile-wildwood-73548-dd8ec1704e0f.herokuapp.com"><img src="https://img.shields.io/badge/Ivan%20Cueva-%23430098.svg?style=flat&logo=heroku&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ivan-cueva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:pedrocuevaof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/IvanCueva01" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://agile-wildwood-73548-dd8ec1704e0f.herokuapp.com" target="_blank"><img src="https://img.shields.io/badge/-Mi_Portafolio_Online-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Portafolio Heroku"></a>
 </p>
-
