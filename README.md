@@ -8,12 +8,12 @@
 ---
 
 ### 👨🏻‍💻 Sobre Mí
-🎓 &nbsp;Estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú[cite: 1, 4], con un fuerte enfoque en el desarrollo de software y el análisis de datos.
-💡 &nbsp;Me entusiasma explorar nuevas tecnologías y transformarlas en soluciones de software innovadoras y eficientes.
-🌱 &nbsp;Actualmente profundizando en arquitecturas de microservicios, patrones avanzados de desarrollo en la nube y nuevas técnicas de Machine Learning.
-🎯 &nbsp;Mi objetivo es potenciar mis habilidades técnicas continuamente, contribuir a proyectos de alto impacto y aportar ideas frescas a equipos de desarrollo dinámicos.
-🌟 &nbsp;Soy adaptable, proactivo, con una gran capacidad de aprendizaje rápido, comprometido con el trabajo en equipo y la resolución efectiva de problemas.
-✉️ &nbsp;Contáctame: <a href="mailto:pedrocuevaof@gmail.com">pedrocuevaof@gmail.com</a> [cite: 1]
+🎓 &nbsp;Estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú, con un fuerte enfoque en el desarrollo de software y el análisis de datos.\
+💡 &nbsp;Me entusiasma explorar nuevas tecnologías y transformarlas en soluciones de software innovadoras y eficientes.\
+🌱 &nbsp;Actualmente profundizando en arquitecturas de microservicios, patrones avanzados de desarrollo en la nube y nuevas técnicas de Machine Learning.\
+🎯 &nbsp;Mi objetivo es potenciar mis habilidades técnicas continuamente, contribuir a proyectos de alto impacto y aportar ideas frescas a equipos de desarrollo dinámicos.\
+🌟 &nbsp;Soy adaptable, proactivo, con una gran capacidad de aprendizaje rápido, comprometido con el trabajo en equipo y la resolución efectiva de problemas.\
+✉️ &nbsp;Contáctame: <a href="mailto:pedrocuevaof@gmail.com">pedrocuevaof@gmail.com</a>
 
 <img alt="Developer GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" align="right"/>
 
