@@ -85,8 +85,8 @@
 ---
 
 ### 🔭 Actualmente Estoy Trabajando En:
-* Perfeccionando un [Proyecto de Blog con React y Node.js].
-* Desarrollando una [API REST con Spring Boot para practicar microservicios].
+* Perfeccionando un Proyecto de Blog con React y Node.js.
+* Desarrollando una API REST con Spring Boot para practicar microservicios.
 * Aplicando mis conocimientos de ciberseguridad en proyectos personales.
 
 ### 🌱 Actualmente Estoy Aprendiendo:
@@ -100,14 +100,14 @@
 1.  🌐 **Mi Portafolio Personal V2**
     * Descripción: Versión mejorada de mi sitio personal mostrando mis proyectos y habilidades.
     * Tecnologías: React, TypeScript, TailwindCSS, Vercel.
-    * 🔗 [Link al Repositorio GitHub] | 🚀 [Link al Deploy (si lo tienes)]
+    * 🔗 [Link al Repositorio GitHub] | 🚀 [Link al Deploy]
 2.  ✍️ **Blog Web App Full Stack**
     * Descripción: Aplicación de blogs dinámica que permite crear, editar y leer artículos.
-    * Tecnologías: React, TypeScript, Node.js, Express, PostgreSQL. [cite: 11]
-    * 🔗 [Link al Repositorio GitHub]
-3.  📊 **Dashboard de Análisis (Ejemplo)**
-    * Descripción: Un dashboard interactivo para visualizar [tipo de datos, ej: datos de ventas] utilizando...
-    * Tecnologías: R, Shiny (o Tableau/Python con Dash).
+    * Tecnologías: React, TypeScript, Node.js, Express, PostgreSQL.
+    * 🔗 [Link al Repositorio GitHub](https://github.com/IvanCueva01/web-blog-app)
+3.  📊 **Dashboard de Análisis**
+    * Descripción: Un dashboard interactivo para visualizar datos
+    * Tecnologías: R, Tableau y Python.
     * 🔗 [Link al Repositorio GitHub]
 
 ---
